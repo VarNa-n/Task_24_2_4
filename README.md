@@ -9,4 +9,4 @@
 
 Для тестирования выполните команду pytest tests/test.py
 
-N.B.: Методы setup и teardown были заменены на setup_method и teardown_method, т.к. pytest выдавал варнинги с предложением такой заменыы.
+N.B.: Методы setup и teardown были заменены на setup_method и teardown_method, т.к. pytest выдавал варнинги с предложением такой замены.
